@@ -64,69 +64,54 @@ function About() {
         </div>
         
         {/* Team */}
-        <div className="mb-16">
-          <h2 className="text-3xl font-bold text-gray-900 mb-8 text-center">Meet Our Team</h2>
-          
-          <div className="grid grid-cols-1 md:grid-cols-3 gap-8">
-            <div className="bg-gray-50 rounded-lg overflow-hidden shadow-sm">
-              <div className="h-64 bg-gray-200"></div>
-              <div className="p-6">
-                <h3 className="text-xl font-semibold mb-1">Sarah Mitchell</h3>
-                <p className="text-gray-600 mb-4">Founder & Lead Consultant</p>
-                <p className="text-gray-600 text-sm">Microsoft Certified: Data Analyst Associate with over 10 years of experience in business intelligence and data analytics.</p>
-              </div>
-            </div>
-            
-            <div className="bg-gray-50 rounded-lg overflow-hidden shadow-sm">
-              <div className="h-64 bg-gray-200"></div>
-              <div className="p-6">
-                <h3 className="text-xl font-semibold mb-1">David Rodriguez</h3>
-                <p className="text-gray-600 mb-4">Senior PowerBI Trainer</p>
-                <p className="text-gray-600 text-sm">PowerBI expert specializing in DAX and complex data modeling. Former Microsoft employee with a passion for teaching.</p>
-              </div>
-            </div>
-            
-            <div className="bg-gray-50 rounded-lg overflow-hidden shadow-sm">
-              <div className="h-64 bg-gray-200"></div>
-              <div className="p-6">
-                <h3 className="text-xl font-semibold mb-1">Jennifer Lee</h3>
-                <p className="text-gray-600 mb-4">Data Visualization Specialist</p>
-                <p className="text-gray-600 text-sm">Award-winning dashboard designer with expertise in visual storytelling and information design principles.</p>
-              </div>
-            </div>
-          </div>
-        </div>
+        {/* Team */}
+<div className="mb-16">
+  <h2 className="text-3xl font-bold text-gray-900 mb-8 text-center">Meet Our Team</h2>
+  
+  <div className="grid grid-cols-1 md:grid-cols-3 gap-8">
+    <div className="bg-gray-50 rounded-lg overflow-hidden shadow-sm">
+      <img
+        src="https://thumbs.dreamstime.com/b/profile-anonymous-face-icon-gray-silhouette-person-male-businessman-profile-default-avatar-photo-placeholder-isolated-white-107003824.jpg?text=Jennifer+Lee"
+        alt="Sarah Mitchell"
+        className="h-64 w-full object-cover"
+      />
+      <div className="p-6">
+        <h3 className="text-xl font-semibold mb-1">Sarah Mitchell</h3>
+        <p className="text-gray-600 mb-4">Founder & Lead Consultant</p>
+        <p className="text-gray-600 text-sm">Microsoft Certified: Data Analyst Associate with over 10 years of experience in business intelligence and data analytics.</p>
+      </div>
+    </div>
+    
+    <div className="bg-gray-50 rounded-lg overflow-hidden shadow-sm">
+      <img
+        src="https://st4.depositphotos.com/9998432/22812/v/450/depositphotos_228123692-stock-illustration-person-gray-photo-placeholder-man.jpg?text=David+Rodriguez"
+        alt="David Rodriguez"
+        className="h-64 w-full object-cover"
+      />
+      <div className="p-6">
+        <h3 className="text-xl font-semibold mb-1">David Rodriguez</h3>
+        <p className="text-gray-600 mb-4">Senior PowerBI Trainer</p>
+        <p className="text-gray-600 text-sm">PowerBI expert specializing in DAX and complex data modeling. Former Microsoft employee with a passion for teaching.</p>
+      </div>
+    </div>
+    
+    <div className="bg-gray-50 rounded-lg overflow-hidden shadow-sm">
+      <img
+        src="https://thumbs.dreamstime.com/b/profile-anonymous-face-icon-gray-silhouette-person-male-businessman-profile-default-avatar-photo-placeholder-isolated-white-107003824.jpg?text=Jennifer+Lee"
+        alt="Jennifer Lee"
+        className="h-64 w-full object-cover"
+      />
+      <div className="p-6">
+        <h3 className="text-xl font-semibold mb-1">Jennifer Lee</h3>
+        <p className="text-gray-600 mb-4">Data Visualization Specialist</p>
+        <p className="text-gray-600 text-sm">Award-winning dashboard designer with expertise in visual storytelling and information design principles.</p>
+      </div>
+    </div>
+  </div>
+</div>
+
         
-        {/* Certifications */}
-        <div className="mb-16">
-          <h2 className="text-3xl font-bold text-gray-900 mb-8 text-center">Our Certifications</h2>
-          
-          <div className="grid grid-cols-2 md:grid-cols-4 gap-8 items-center justify-items-center">
-            <div className="bg-gray-50 p-4 rounded-lg h-32 w-32 flex items-center justify-center">
-              <div className="text-center">
-                <div className="font-semibold text-gray-900">Microsoft Partner</div>
-              </div>
-            </div>
-            
-            <div className="bg-gray-50 p-4 rounded-lg h-32 w-32 flex items-center justify-center">
-              <div className="text-center">
-                <div className="font-semibold text-gray-900">PowerBI Certified</div>
-              </div>
-            </div>
-            
-            <div className="bg-gray-50 p-4 rounded-lg h-32 w-32 flex items-center justify-center">
-              <div className="text-center">
-                <div className="font-semibold text-gray-900">Data Analyst Associate</div>
-              </div>
-            </div>
-            
-            <div className="bg-gray-50 p-4 rounded-lg h-32 w-32 flex items-center justify-center">
-              <div className="text-center">
-                <div className="font-semibold text-gray-900">Azure Data Expert</div>
-              </div>
-            </div>
-          </div>
-        </div>
+       
         
         {/* Contact */}
         <div className="bg-gray-900 rounded-lg p-8">

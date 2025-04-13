@@ -12,8 +12,8 @@ body{
   font-size: x-large;
 }
 nav a.active {
-  color:#023047;
-  text-decoration:underline  #499ede 3px;
+  /* color:#F2C811; */
+  text-decoration:underline #F2C811 3px;
   
 }
 .hamburger{
