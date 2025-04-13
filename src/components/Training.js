@@ -81,7 +81,7 @@ function Training() {
                   </ul>
                   <div className="mt-6">
                     <p className="text-gray-900 font-semibold">
-                      Duration: 2 Days
+                      Duration: 12 Weeks
                     </p>
                     <p className="text-gray-600 text-sm mt-1">
                       Perfect for those new to PowerBI and data visualization
@@ -127,7 +127,7 @@ function Training() {
                   </ul>
                   <div className="mt-6">
                     <p className="text-gray-900 font-semibold">
-                      Duration: 3 Days
+                      Duration: 12 Weeks
                     </p>
                     <p className="text-gray-600 text-sm mt-1">
                       For users with basic PowerBI knowledge looking to advance
@@ -173,7 +173,7 @@ function Training() {
                   </ul>
                   <div className="mt-6">
                     <p className="text-gray-900 font-semibold">
-                      Duration: 4 Days
+                      Duration: 12 Weeks
                     </p>
                     <p className="text-gray-600 text-sm mt-1">
                       For experienced users seeking to master PowerBI

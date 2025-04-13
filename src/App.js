@@ -4,7 +4,7 @@ import Home from "./components/Home";
 import Consultation from "./components/Consultation";
 import About from "./components/About"
 import Training from "./components/Training";
-// import Footer from "./components/Footer";
+import Footer from "./components/Footer";
 
 function App() {
   return (
@@ -17,6 +17,7 @@ function App() {
         <Route path="/training" element={<Training />} />
         <Route path="/about" element={<About />} />
       </Routes>
+      <Footer/>
     </Router>
   );
 }

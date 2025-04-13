@@ -29,14 +29,14 @@ function Home() {
         </div>
         
         {/* Hero Images with yellow and black theme */}
-        <div className="md:w-1/2 relative">
+        <div className="md:w-1/4 relative">
           {/* Main dashboard image with yellow-black styling */}
           <div className="relative overflow-hidden rounded-lg shadow-xl border-2 border-yellow-500">
             <div className="bg-gradient-to-br from-yellow-100 to-gray-100 p-6 rounded-lg">
               {/* Stylized dashboard content */}
               <div className="flex justify-between items-center mb-4">
                 <div className="font-bold text-lg">Power BI Dashboard</div>
-                <div className="flex space-x-2">
+                <div className="flex ml-2 space-x-2">
                   <div className="w-3 h-3 bg-yellow-500 rounded-full"></div>
                   <div className="w-3 h-3 bg-black rounded-full"></div>
                   <div className="w-3 h-3 bg-gray-300 rounded-full"></div>
