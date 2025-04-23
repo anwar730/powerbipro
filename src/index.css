@@ -1,6 +1,7 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
 body{
   margin: 0;
   padding: 0;
@@ -12,9 +13,7 @@ body{
   font-size: x-large;
 }
 nav a.active {
-  /* color:#F2C811; */
   text-decoration:underline #F2C811 3px;
-  
 }
 .hamburger{
   cursor: pointer;

@@ -13,10 +13,27 @@ function Training() {
             <h1 className="text-4xl font-bold tracking-tight">
               PowerBI <span className="text-yellow-400">Training</span> Programs
             </h1>
-            <p className="mt-4 text-xl text-gray-300 max-w-3xl mx-auto">
+            <p className="my-6 text-xl text-gray-300 max-w-3xl mx-auto">
               Comprehensive training to master Microsoft PowerBI for data
               analysis and visualization.
             </p>
+            <div className="flex flex-col justify-center md:flex-row md:space-x-4 space-y-2 md:space-y-0">
+  <a
+    href="https://forms.office.com/Pages/ResponsePage.aspx?id=EeE0QF5AFEWcUOAwYgqu_WbD0_OTVQ5GkKF2vVltsHxURTNWV1VDVkRVRE9RNExZTktDWlZNWE4zTS4u"
+    target="_blank"
+    className="bg-yellow-400 text-black px-8 py-3 rounded-md font-medium hover:bg-yellow-500 transition-colors"
+  >
+    Register for Training
+  </a>
+  <a
+    href="/pricing.docx"
+    className="bg-yellow-400 text-black px-8 py-3 rounded-md font-medium hover:bg-yellow-500 transition-colors"
+  >
+    See Our Pricing
+  </a>
+</div>
+
+
           </div>
         </div>
       </div>
@@ -408,16 +425,17 @@ function Training() {
             <h2 className="text-2xl font-bold text-white mb-4">
               Ready to master PowerBI?
             </h2>
-            <p className="text-gray-300 mb-6 max-w-2xl mx-auto">
+            <p className="text-gray-300 mb-8 max-w-2xl mx-auto">
               Register for our upcoming training sessions and take your data
               analysis skills to the next level.
             </p>
-            <button
-            //   onClick={() => navigateTo("trainingForm")}
+            <a
+            href="https://forms.office.com/Pages/ResponsePage.aspx?id=EeE0QF5AFEWcUOAwYgqu_WbD0_OTVQ5GkKF2vVltsHxURTNWV1VDVkRVRE9RNExZTktDWlZNWE4zTS4u"
+            target="blank"
               className="bg-yellow-400 text-black px-8 py-3 rounded-md font-medium hover:bg-yellow-500 transition-colors"
             >
               Register for Training
-            </button>
+            </a>
           </div>
         </div>
       </div>
