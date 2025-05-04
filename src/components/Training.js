@@ -19,7 +19,7 @@ function Training() {
             </p>
             <div className="flex flex-col justify-center md:flex-row md:space-x-4 space-y-2 md:space-y-0">
   <a
-    href="https://forms.office.com/Pages/ResponsePage.aspx?id=EeE0QF5AFEWcUOAwYgqu_WbD0_OTVQ5GkKF2vVltsHxURTNWV1VDVkRVRE9RNExZTktDWlZNWE4zTS4u"
+    href="https://forms.office.com/r/VW6LUvgvKm"
     target="_blank"
     className="bg-yellow-400 text-black px-8 py-3 rounded-md font-medium hover:bg-yellow-500 transition-colors"
   >
@@ -98,7 +98,7 @@ function Training() {
                   </ul>
                   <div className="mt-6">
                     <p className="text-gray-900 font-semibold">
-                      Duration: 12 Weeks
+                      Duration: 8 Weeks
                     </p>
                     <p className="text-gray-600 text-sm mt-1">
                       Perfect for those new to PowerBI and data visualization
@@ -430,7 +430,7 @@ function Training() {
               analysis skills to the next level.
             </p>
             <a
-            href="https://forms.office.com/Pages/ResponsePage.aspx?id=EeE0QF5AFEWcUOAwYgqu_WbD0_OTVQ5GkKF2vVltsHxURTNWV1VDVkRVRE9RNExZTktDWlZNWE4zTS4u"
+            href="https://forms.office.com/r/VW6LUvgvKm"
             target="blank"
               className="bg-yellow-400 text-black px-8 py-3 rounded-md font-medium hover:bg-yellow-500 transition-colors"
             >

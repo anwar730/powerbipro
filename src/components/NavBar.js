@@ -51,7 +51,7 @@ function NavBar() {
                 PowerBI
               </text>
               <text
-                x="235"
+                x="220"
                 y="60"
                 fontFamily="Arial, sans-serif"
                 fontWeight="700"

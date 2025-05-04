@@ -18,7 +18,7 @@ function Consultation() {
               business value.
             </p>
             <a
-              href="https://outlook.office.com/owa/calendar/PowerBIProConsulting@amoconsultinggroup.com/bookings/"
+              href="https://outlook.office.com/bookwithme/user/df3ec3132f01458fbc2feb2ba9895310%40powerbipro.io/meetingtype/WxCBm31PEUOVypiGkBPAGA2?anonymous&isanonymous=true"
               target="blank"
               className="bg-yellow-400 mt-6 text-black px-8 py-3 rounded-md font-medium hover:bg-yellow-500 transition-colors"
             >
@@ -162,7 +162,7 @@ function Consultation() {
               first step toward data-driven decision making.
             </p>
             <a
-              href="https://outlook.office.com/owa/calendar/PowerBIProConsulting@amoconsultinggroup.com/bookings/"
+              href="https://outlook.office.com/bookwithme/user/df3ec3132f01458fbc2feb2ba9895310%40powerbipro.io/meetingtype/WxCBm31PEUOVypiGkBPAGA2?anonymous&isanonymous=true"
               target="blank"
               className="bg-yellow-400 mt-6 text-black px-8 py-3 rounded-md font-medium hover:bg-yellow-500 transition-colors"
             >
